@@ -1,6 +1,4 @@
-# Python-y-matematica
 
-[python y matematica.html.txt](https://github.com/user-attachments/files/29722673/python.y.matematica.html.txt)
 <!DOCTYPE html>
 <html lang="es">
 <head>
